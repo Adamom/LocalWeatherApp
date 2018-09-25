@@ -1,0 +1,17 @@
+body{
+  background-image:url("https://static1.squarespace.com/static/58fb5c7eb8a79b0b91ba215a/t/592eff425016e1a65e0ba390/1496252231521/49382_photo_manipulation_lion_cloud.jpg?format=1500w") 
+ ;
+background-position: center center ; 
+ background-size:100% ; 
+}
+#country{
+  align-text:center;
+}
+#h2{
+  margin: auto;
+padding-top:25px;height:90px;color:black;}
+
+#title{
+  font-size:55px;
+  
+}
